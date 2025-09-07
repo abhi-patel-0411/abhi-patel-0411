@@ -10,76 +10,32 @@
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,6,17,13,4&height=50&animation=twinkling)
 
-## 🎓 Education Journey
+## 🎯 About Me
 
-<div align="center">
-
-| 🏛️ **Institution** | 📅 **Duration** | 🎯 **Field** | 📊 **Performance** |
-|:---:|:---:|:---:|:---:|
-| **LJ Institute of Engineering & Technology** | 2023 - 2027 | Computer Engineering | **CGPA: 8.60** <br> Sem-1: `7.50` → Sem-2: `8.33` → Sem-3: `9.96` |
-| **Shree Swaminarayan Gurukul School** | 2021 - 2023 | Higher Secondary | Completed |
-
-</div>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
-
-## 🚀 Featured Projects
+![About Background](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=3,8,15,22,9&height=80&section=header&animation=fadeIn)
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🍔 [Burger Farm - Full Stack](https://django-burger-farm.onrender.com/)
-
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://django-burger-farm.onrender.com/)
-[![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)](https://django-burger-farm.onrender.com/)
-
-*AI-powered burger ordering with real-time tracking & secure payments*
-
-</td>
-<td width="50%">
-
-### 🎬 [Book My Cinema](https://bookmycinema.vercel.app/)
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://bookmycinema.vercel.app/)
-[![Real-time](https://img.shields.io/badge/Real_Time-4CAF50?style=for-the-badge&logo=socketdotio&logoColor=white)](https://bookmycinema.vercel.app/)
-
-*Movie booking with real-time seat selection & admin tools*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🍔 [Burger Farm - Frontend](https://burger-farm-psi.vercel.app/)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://burger-farm-psi.vercel.app/)
-[![Responsive](https://img.shields.io/badge/Responsive-9C27B0?style=for-the-badge&logo=css3&logoColor=white)](https://burger-farm-psi.vercel.app/)
-
-*Custom burger ordering with cart management & tracking*
-
-</td>
-<td width="50%">
-
-### 🎭 [Palladium Cinema](https://palladium-movie-ticket-booking.vercel.app/)
-
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://palladium-movie-ticket-booking.vercel.app/)
-
-*Seamless movie booking with modern UI/UX design*
-
-</td>
-</tr>
-</table>
+```javascript
+const abhi = {
+    location: "📍 Ahmedabad, India",
+    education: "🎓 Computer Engineering @ LJ Institute",
+    currentGPA: "📊 8.60/10.0",
+    focus: ["Full-Stack Development", "AI/ML", "Modern Web Technologies"],
+    currentlyLearning: ["Advanced React Patterns", "Machine Learning", "Cloud Technologies"],
+    funFact: "I love building applications that solve real-world problems! 🌟"
+};
+```
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=5,12,18,25,7&height=3&animation=blinking)
 
 ## 💻 Tech Stack
+
+![Tech Background](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=100&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -121,9 +77,11 @@
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,9,17,11,7&height=50&animation=blinking)
 
 ## 📊 GitHub Analytics
+
+![Analytics Background](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,9,11,12,15&height=80&section=header&animation=scaleIn)
 
 <div align="center">
 
@@ -136,9 +94,11 @@
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,1,2,3,4&height=50&animation=fadeIn)
 
 ## 🏆 GitHub Trophies
+
+![Trophy Background](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=14,21,13,25,7&height=70&section=header&animation=twinkling)
 
 <div align="center">
 
@@ -146,9 +106,11 @@
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,14,33,46,7&height=60&animation=blinking)
 
 ## 🌐 Connect With Me
+
+![Connect Background](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,9,20,6,1&height=90&section=header&animation=scaleIn)
 
 <div align="center">
 
