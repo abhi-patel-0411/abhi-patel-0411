@@ -55,43 +55,48 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
----
-
-## 📊 GitHub Stats
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi-patel-0411&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-patel-0411&layout=compact&langs_count=8&theme=default"/>
+### 💬 Get in Touch
 
-</div>
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/abhi-poshiya-005228321">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+<br><sub><b>Professional Network</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:abhiposhiya0104@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+<br><sub><b>Email Me</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://instagram.com/abhi_posiya">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+<br><sub><b>Follow My Journey</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://discord.gg/abhi_patel123_68036">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord"/>
+<br><sub><b>Let's Chat</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
-<div align="center">
+### 📞 Quick Contact
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhi-patel-0411&theme=default)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<!-- <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhi-patel-0411&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div> -->
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-poshiya-005228321)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiposhiya0104@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhi_posiya)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/abhi_patel123_68036)
+<p align="center">
+<img src="https://img.shields.io/badge/📍_Location-Ahmedabad,_India-blue?style=flat-square&labelColor=2196F3&color=ffffff"/>
+<img src="https://img.shields.io/badge/📧_Email-abhiposhiya0104@gmail.com-red?style=flat-square&labelColor=D14836&color=ffffff"/>
+<img src="https://img.shields.io/badge/📱_Phone-+91_7016057005-green?style=flat-square&labelColor=4CAF50&color=ffffff"/>
+</p>
 
 </div>
 
