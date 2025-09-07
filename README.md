@@ -1,87 +1,102 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Abhi%20Poshiya&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient)
+# Hi 👋, I'm Abhi Poshiya
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Engineering+Student;AI+%26+ML+Enthusiast;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🎓+Computer+Engineering+Student;🤖+AI+%26+ML+Enthusiast;🌐+Building+Modern+Web+Applications;💡+Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhi-patel-0411&label=Profile%20views&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/abhi-patel-0411?logo=GitHub&style=for-the-badge&color=blue)](https://github.com/abhi-patel-0411)
-[![GitHub Stars](https://img.shields.io/github/stars/abhi-patel-0411?logo=github&style=for-the-badge&color=yellow)](https://github.com/abhi-patel-0411)
+![Profile Views](https://komarev.com/ghpvc/?username=abhi-patel-0411&label=Profile%20views&color=blue&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/abhi-patel-0411?logo=GitHub&style=flat-square&color=blue)](https://github.com/abhi-patel-0411)
+[![GitHub Stars](https://img.shields.io/github/stars/abhi-patel-0411?logo=github&style=flat-square&color=yellow)](https://github.com/abhi-patel-0411)
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
+---
+
+## 🎯 About Me
+
+- 📍 **Location:** Ahmedabad, India
+- 🎓 **Education:** Computer Engineering @ LJ Institute of Engineering & Technology
+- 📊 **CGPA:** 8.60/10.0 (Sem-1: 7.50 → Sem-2: 8.33 → Sem-3: 9.96)
+- 💼 **Focus:** Full-Stack Development, AI/ML, Modern Web Technologies
+- 🌱 **Currently Learning:** Advanced React Patterns, Machine Learning, Cloud Technologies
+- 🎯 **Goal:** Building applications that solve real-world problems
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **🍔 Burger Farm (Django)** | AI-powered burger ordering platform with real-time tracking & secure payments | Django, Python, AI | [Live](https://django-burger-farm.onrender.com/) |
+| **🎬 Book My Cinema** | Movie ticket booking with real-time seat selection & admin tools | React, JavaScript | [Live](https://bookmycinema.vercel.app/) |
+| **🍔 Burger Farm (Frontend)** | Custom burger ordering with cart management & delivery tracking | HTML, CSS, JavaScript | [Live](https://burger-farm-psi.vercel.app/) |
+| **🎭 Palladium Cinema** | Seamless movie booking experience with modern UI/UX | Bootstrap, JavaScript | [Live](https://palladium-movie-ticket-booking.vercel.app/) |
+
+---
 
 ## 💻 Tech Stack
 
-<div align="center">
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🎨 Frontend Technologies
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-### ⚙️ Backend Technologies
+### Data Science & ML
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-### 🗄️ Database Technologies
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 📊 Data Science & ML
-
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi-patel-0411&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=30A3DC"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-patel-0411&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_color=30A3DC"/>
-
-<img src="https://streak-stats.demolab.com/?user=abhi-patel-0411&theme=radical&border_radius=20&background=0D1117&border=30A3DC&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-patel-0411&theme=react-dark&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false&border_color=30A3DC&radius=20" width="100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi-patel-0411&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-patel-0411&layout=compact&langs_count=8&theme=default"/>
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhi-patel-0411&theme=default)](https://git.io/streak-stats)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhi-patel-0411&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhi-patel-0411&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
+---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -92,12 +107,12 @@
 
 </div>
 
+---
+
 <div align="center">
 
-### 💡 Let's Build Something Amazing Together!
+**💡 Open to collaborating on innovative projects and exploring new technologies!**
 
-**🚀 Open to collaborating on innovative projects and exploring new technologies!**
+⭐️ From [Abhi Poshiya](https://github.com/abhi-patel-0411)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=twinkling)
