@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhi Poshiya
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Engineering+Student;AI+%26+ML+Enthusiast;Building+Modern+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2196F3&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🎓+Computer+Engineering+Student;💻+Building+Modern+Web+Applications;🌟+Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -16,23 +16,11 @@
 
 - 📍 **Location:** Ahmedabad, India
 - 🎓 **Education:** Computer Engineering @ LJ Institute of Engineering & Technology
-- 📊 **CGPA:** 8.60/10.0 (Sem-1: 7.50 → Sem-2: 8.33 → Sem-3: 9.96)
-- 💼 **Focus:** Full-Stack Development, AI/ML, Modern Web Technologies
-- 🌱 **Currently Learning:** Advanced React Patterns, Machine Learning, Cloud Technologies
+- 💼 **Focus:** Full-Stack Development,  Modern Web Technologies
+- 🌱 **Currently Learning:** Advanced React Patterns
 - 🎯 **Goal:** Building applications that solve real-world problems
 
----
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **🍔 Burger Farm (Django)** | AI-powered burger ordering platform with real-time tracking & secure payments | Django, Python, AI | [Live](https://django-burger-farm.onrender.com/) |
-| **🎬 Book My Cinema** | Movie ticket booking with real-time seat selection & admin tools | React, JavaScript | [Live](https://bookmycinema.vercel.app/) |
-| **🍔 Burger Farm (Frontend)** | Custom burger ordering with cart management & delivery tracking | HTML, CSS, JavaScript | [Live](https://burger-farm-psi.vercel.app/) |
-| **🎭 Palladium Cinema** | Seamless movie booking experience with modern UI/UX | Bootstrap, JavaScript | [Live](https://palladium-movie-ticket-booking.vercel.app/) |
-
----
 
 ## 💻 Tech Stack
 
