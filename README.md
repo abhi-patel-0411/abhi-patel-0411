@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0x00D9FF&height=300&section=header&text=Abhi%20Poshiya&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Abhi%20Poshiya&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient)
 
 <div align="center">
 
@@ -10,32 +10,9 @@
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=shark&color=0x30A3DC&height=50&animation=twinkling)
-
-## 🎯 About Me
-
-![About Background](https://capsule-render.vercel.app/api?type=wave&color=0x1E90FF&height=80&section=header&animation=fadeIn)
-
-<div align="center">
-
-```javascript
-const abhi = {
-    location: "📍 Ahmedabad, India",
-    education: "🎓 Computer Engineering @ LJ Institute",
-    currentGPA: "📊 8.60/10.0",
-    focus: ["Full-Stack Development", "AI/ML", "Modern Web Technologies"],
-    currentlyLearning: ["Advanced React Patterns", "Machine Learning", "Cloud Technologies"],
-    funFact: "I love building applications that solve real-world problems! 🌟"
-};
-```
-
-</div>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0x4CAF50&height=3&animation=blinking)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
 
 ## 💻 Tech Stack
-
-![Tech Background](https://capsule-render.vercel.app/api?type=rounded&color=0x9C27B0&height=100&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -77,11 +54,9 @@ const abhi = {
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=cylinder&color=0xFF6B6B&height=50&animation=blinking)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
 
 ## 📊 GitHub Analytics
-
-![Analytics Background](https://capsule-render.vercel.app/api?type=soft&color=0x2196F3&height=80&section=header&animation=scaleIn)
 
 <div align="center">
 
@@ -94,11 +69,9 @@ const abhi = {
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=transparent&color=0x00BCD4&height=50&animation=fadeIn)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
 
 ## 🏆 GitHub Trophies
-
-![Trophy Background](https://capsule-render.vercel.app/api?type=slice&color=0xFFC107&height=70&section=header&animation=twinkling)
 
 <div align="center">
 
@@ -106,11 +79,9 @@ const abhi = {
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=egg&color=0xE91E63&height=60&animation=blinking)
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header)
 
 ## 🌐 Connect With Me
-
-![Connect Background](https://capsule-render.vercel.app/api?type=venom&color=0x673AB7&height=90&section=header&animation=scaleIn)
 
 <div align="center">
 
@@ -129,4 +100,4 @@ const abhi = {
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0x00D9FF&height=200&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=twinkling)
